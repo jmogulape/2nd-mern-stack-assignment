@@ -7,12 +7,7 @@ function App() {
     <Grid container spacing={5}>
       <Grid item xs={2}></Grid>
       <Grid item xs={8}>
-        <div style={{ textAlign: "center" }}>
-          <h1>Jahangeer Ayaz Mogul FA17-BCS-138 Section A</h1>
-          <h1>Assignment 2</h1>
-          <h1>Made in React.js using material-ui</h1>
-        </div>
-      </Grid>
+       </Grid>
       <Grid item xs={2}></Grid>
 
       <Grid item xs={1}></Grid>
